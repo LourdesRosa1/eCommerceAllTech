@@ -1,13 +1,17 @@
-###AllTech
+### AllTech 
 
 E-commerce de tecnología
 
 
-###Sobre el proyecto
+### Sobre el proyecto
 
 AllTech es una e-Commerce dedicada a la venta de productos gaming cómo su principal fuente de ingresos y otros artículos electrónicos cómo fuente secundaria.
 
 Nos destaca la posibilidad de darle al cliente un "Armado propio de PC ", una función en la que podes personalizar tu gabinete y sus componentes viendo en tiempo real su precio y equipamiento, todo esto dependiendo de tus necesidades y/o tu bolsillo.
+![image](https://res.cloudinary.com/dy5msftwe/image/upload/v1676411238/Products/nose_xnirkk.png)
+![image](https://res.cloudinary.com/dy5msftwe/image/upload/v1676411239/Products/nose2_lmvl2p.png)
+
+
 
 Contamos con:
 
@@ -26,7 +30,7 @@ Contamos con:
 - Mail de promociones ágil
 - Visual interactiva y didáctica
 
-###Enlace del proyecto:
+### Enlace del proyecto:
 
 https://client-ochre-five.vercel.app
 
